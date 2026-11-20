@@ -1,0 +1,5 @@
+model,MAE,RMSE,R2
+Ridge,24256.1,38101.408,0.574
+GradientBoosting,25591.55,40719.491,0.514
+RandomForest,25426.033,41671.546,0.491
+Baseline (median),41104.811,60474.307,-0.073
