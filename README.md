@@ -2,6 +2,8 @@
 
 An end-to-end machine learning project: clean real listing data, compare models against a baseline, save the best one, and serve predictions in a web app.
 
+**Live demo:** https://saniya-saudi-rent-predictor.streamlit.app/
+
 ## Dataset
 SA Aqar listings (Kaggle): 3,718 property listings from Riyadh, Jeddah, Dammam and Khobar, with 174 districts and features such as size, property age, rooms, and amenities (garage, pool, elevator and more). The listing text indicates these are rental listings, so `price` is the advertised rent (SAR).
 
